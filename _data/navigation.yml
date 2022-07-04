@@ -26,3 +26,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+sidebar:
+  - title: "Titlxfgdfgdgfe"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
