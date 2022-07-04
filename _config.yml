@@ -308,3 +308,7 @@ sidebar:
     text: "Some text here."
   - title: "Another Title"
     text: "More text here."
+
+after_footer_scripts:
+  - https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js
+  - /assets/js/table.js
