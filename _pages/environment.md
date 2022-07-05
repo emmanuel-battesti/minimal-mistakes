@@ -1,8 +1,5 @@
 ---
-datatable: true
 title: Environment
-toc: true
-toc_sticky: true
 header:
   overlay_image: /assets/images/lidar-maya.jpg
 ---

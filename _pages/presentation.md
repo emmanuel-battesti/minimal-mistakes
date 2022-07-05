@@ -1,8 +1,5 @@
 ---
-datatable: true
 title: Presentation
-toc: true
-toc_sticky: true
 header:
   overlay_image: /assets/images/courses-de-drones.jpg
 ---

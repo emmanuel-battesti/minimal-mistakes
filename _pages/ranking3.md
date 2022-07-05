@@ -1,5 +1,4 @@
 ---
-datatable: true
 title: ranking 3
 ---
 # Ranking

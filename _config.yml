@@ -302,6 +302,9 @@ defaults:
       author_profile: false
       sidebar:
         nav: sidebar
+      datatable: true
+      toc: true
+      toc_sticky: true
 
 sidebar:
   - title: "Title"

@@ -1,8 +1,5 @@
 ---
-datatable: true
 title: Statistiques
-toc: true
-toc_sticky: true
 header:
   overlay_image: /assets/images/stats.jpg
 ---

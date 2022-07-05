@@ -1,5 +1,4 @@
 ---
-datatable: true
 title: ranking 1
 ---
 <div class="table-begin"></div>

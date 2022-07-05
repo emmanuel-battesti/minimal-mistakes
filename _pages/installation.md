@@ -1,8 +1,5 @@
 ---
-datatable: true
 title: Installation
-toc: true
-toc_sticky: true
 header:
   overlay_image: /assets/images/installation.jpg
 ---

@@ -1,8 +1,5 @@
 ---
-datatable: true
 title: Changelog
-toc: true
-toc_sticky: true
 header:
   overlay_image: /assets/images/change.jpg
 ---

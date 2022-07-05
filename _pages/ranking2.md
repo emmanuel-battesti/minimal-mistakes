@@ -1,5 +1,4 @@
 ---
-datatable: true
 title: rankin 2
 ---
 # Ranking
