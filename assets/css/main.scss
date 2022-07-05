@@ -5,11 +5,19 @@ search: false
 
 @charset "utf-8";
 
+$x-large: 1580px;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
 .page__hero {
   &--overlay {
-    padding: 3em 0; // <- CHANGE IS HERE
+    padding: 4em 0; // <- CHANGE IS HERE
   }
 }
+
+// @include breakpoint($x-large) {
+//   // width: calc(100% - #{$right-sidebar-width});
+//   width: 100%;
+//   padding-right: $right-sidebar-width;
+// }
