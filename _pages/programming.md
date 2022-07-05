@@ -1,8 +1,12 @@
 ---
 datatable: true
 title: Programming
+toc: true
+toc_sticky: true
+header:
+  overlay_image: /assets/images/programming.jpg
 ---
-![image-prog](/assets/images/programming.jpg)
+<!-- ![image-prog](/assets/images/programming.jpg){: width="100%" } -->
 
 ## Architecture
 

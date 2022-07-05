@@ -1,11 +1,16 @@
 ---
 title: Swarm-Rescue Competition
 permalink: /
+layout: splash
+<!-- header:
+  overlay_color: "#000"
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/air-drone.jpg -->
 ---
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
-![air-drone](/assets/images/air-drone.jpg)
+![air-drone](/assets/images/air-drone.jpg){: width="100%" }
 
 ## Welcome to *Swarm-Rescue*
 
@@ -17,11 +22,6 @@ Your job will be to propose your own version of the controller of the drone. In 
 
 ## Pages
 
-* [Presentation](_pages/presentation)
-* [Installation](_pages/installation)
-* [Environment](_pages/environment)
-* [Programming](_pages/programming)
-* [Changelog](_pages/changelog)
 * [Statistiques](_pages/stats)
 
 * [ranking 1](_pages/ranking)

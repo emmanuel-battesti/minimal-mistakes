@@ -1,8 +1,12 @@
 ---
 datatable: true
 title: Presentation
+toc: true
+toc_sticky: true
+header:
+  overlay_image: /assets/images/courses-de-drones.jpg
 ---
-![image-course](/assets/images/courses-de-drones.jpg)
+<!-- ![image-course](/assets/images/courses-de-drones.jpg){: width="100%" } -->
 
 ## The Competition
 

@@ -1,8 +1,12 @@
 ---
 datatable: true
 title: Installation
+toc: true
+toc_sticky: true
+header:
+  overlay_image: /assets/images/installation.jpg
 ---
-![image-install](/assets/images/installation.jpg)
+<!-- ![image-install](/assets/images/installation.jpg){: width="100%" } -->
 
 This installation procedure has been tested only with Ubuntu 18.04 and 20.04.
 

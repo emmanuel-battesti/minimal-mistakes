@@ -1,8 +1,12 @@
 ---
 datatable: true
 title: Environment
+toc: true
+toc_sticky: true
+header:
+  overlay_image: /assets/images/lidar-maya.jpg
 ---
-![image-env](/assets/images/lidar-maya.jpg)
+<!-- ![image-env](/assets/images/lidar-maya.jpg){: width="100%" } -->
 
 ## Drones
 

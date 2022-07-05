@@ -1,8 +1,12 @@
 ---
 datatable: true
 title: Changelog
+toc: true
+toc_sticky: true
+header:
+  overlay_image: /assets/images/change.jpg
 ---
-![image-change](/assets/images/change.jpg)
+<!-- ![image-change](/assets/images/change.jpg){: width="100%" } -->
 
 All notable changes to this project will be documented in this file.
 
