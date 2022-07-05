@@ -300,6 +300,8 @@ defaults:
       layout: single
     #  classes: wide
       author_profile: false
+      sidebar:
+        nav: sidebar
 
 sidebar:
   - title: "Title"

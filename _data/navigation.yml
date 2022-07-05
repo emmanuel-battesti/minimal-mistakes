@@ -28,7 +28,19 @@ main:
   #   url: /sitemap/
 
 sidebar:
-  - title: "Titlxfgdfgdgfe"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  - title: "Recent Posts"
+    url: /_pages/recent_posts
+  - title: "Presentation"
+    url: /_pages/presentation
+  - title: "Installation"
+    url: /_pages/installation
+  - title: "Environment"
+    url: /_pages/environment
+  - title: "Programming"
+    url: /_pages/programming
+  - title: "ChangeLog"
+    url: /_pages/changelog
+  - title: "Statistiques"
+    url: /_pages/stats
+  - title: "About"
+    url: /_pages/about
