@@ -151,7 +151,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
-
 # Reading Files
 include:
   - .htaccess
@@ -238,7 +237,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+  - jekyll-remote-theme
 
 # Archives
 #  Type
@@ -288,10 +287,14 @@ defaults:
       author_profile: false
       read_time: false
       comments: false # true
-      share: true
-      related: true
+      share: false
+      related: false
       show_date: true
       date_format: "%d-%m-%y"
+      header:
+        overlay_image: /assets/images/news.jpg
+        overlay_color: "#000"
+        overlay_filter: "0.3"
   # _pages
   - scope:
       path: ""

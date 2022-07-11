@@ -1,5 +1,6 @@
 ---
 title: Installation
+permalink: /installation/
 header:
   overlay_image: /assets/images/installation.jpg
 ---

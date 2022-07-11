@@ -1,42 +1,46 @@
 # main links
 main:
   - title: "Recent Posts"
-    url: /_pages/recent_posts
+    url: /recent_posts
   - title: "Presentation"
-    url: /_pages/presentation
+    url: /presentation
   - title: "Installation"
-    url: /_pages/installation
+    url: /installation
   - title: "Environment"
-    url: /_pages/environment
+    url: /environment
   - title: "Programming"
-    url: /_pages/programming
+    url: /programming
   - title: "ChangeLog"
-    url: /_pages/changelog
+    url: /changelog
   - title: "Statistiques"
-    url: /_pages/stats
+    url: /statistiques
   - title: "About"
-    url: /_pages/about
+    url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  #  - title: "Categories"
+  #  url: /categories/
+  #  - title: "Tags"
+  #  url: /tags/
 
 sidebar:
   - title: "Recent Posts"
-    url: /_pages/recent_posts
+    url: /recent_posts
   - title: "Presentation"
-    url: /_pages/presentation
+    url: /presentation
   - title: "Installation"
-    url: /_pages/installation
+    url: /installation
   - title: "Environment"
-    url: /_pages/environment
+    url: /environment
   - title: "Programming"
-    url: /_pages/programming
+    url: /programming
   - title: "ChangeLog"
-    url: /_pages/changelog
+    url: /changelog
   - title: "Statistiques"
-    url: /_pages/stats
+    url: /statistiques
   - title: "About"
-    url: /_pages/about
+    url: /about

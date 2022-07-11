@@ -2,15 +2,13 @@
 title: Swarm-Rescue Competition
 permalink: /
 layout: splash
-<!-- header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/air-drone.jpg -->
+header:
+  overlay_image: /assets/images/air-drone.jpg
 ---
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <link rel="icon" href="favicon.ico" type="image/x-icon" />
 
-![air-drone](/assets/images/air-drone.jpg){: width="100%" }
+<!-- ![air-drone](/assets/images/air-drone.jpg){: width="100%" } -->
 
 ## Welcome to *Swarm-Rescue*
 
@@ -20,6 +18,7 @@ Your job will be to propose your own version of the controller of the drone. In 
 
 *Swarm-Rescue* is the environment that simulates the drones and that describes the maps used, the drones and the different elements of the map.
 
+<!---
 ## Pages
 
 * [Statistiques](_pages/stats)
@@ -27,3 +26,4 @@ Your job will be to propose your own version of the controller of the drone. In 
 * [ranking 1](_pages/ranking)
 * [ranking 2](_pages/ranking2)
 * [ranking 3](_pages/ranking3)
+-->

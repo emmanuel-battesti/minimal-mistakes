@@ -1,5 +1,6 @@
 ---
 title: Changelog
+permalink: /changelog/
 header:
   overlay_image: /assets/images/change.jpg
 ---

@@ -1,5 +1,6 @@
 ---
 title: Presentation
+permalink: /presentation/
 header:
   overlay_image: /assets/images/courses-de-drones.jpg
 ---

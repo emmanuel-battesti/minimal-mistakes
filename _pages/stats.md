@@ -1,5 +1,6 @@
 ---
 title: Statistiques
+permalink: /statistiques/
 header:
   overlay_image: /assets/images/stats.jpg
 ---

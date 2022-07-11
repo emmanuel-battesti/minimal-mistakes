@@ -1,5 +1,6 @@
 ---
 title: Programming
+permalink: /programming/
 header:
   overlay_image: /assets/images/programming.jpg
 ---

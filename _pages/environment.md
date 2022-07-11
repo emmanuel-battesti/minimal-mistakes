@@ -1,5 +1,6 @@
 ---
 title: Environment
+permalink: /environment/
 header:
   overlay_image: /assets/images/lidar-maya.jpg
 ---
